@@ -1,0 +1,2 @@
+{"level":"info","message":"Request: POST /exponentiate - Body: {\"base\":2,\"exponent\":3}","service":"calculator-microservice"}
+{"level":"info","message":"Exponentiation: 2 ^ 3 = 8","service":"calculator-microservice"}
